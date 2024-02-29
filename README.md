@@ -1,4 +1,4 @@
-# Wastewater-Treatment
+# Wastewater-Treatment Operation Cost (kWh) Prediction Using Energy billed and Treated Flow (MGD)
 Predicting Electricity Consumption at Dillman Road Wastewater Treatment Plant
 
 
